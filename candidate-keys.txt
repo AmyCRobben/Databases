@@ -1,0 +1,4 @@
+Current Relation:
+ABCF CDF ACDF BCDF ABCDF ABCEF CDEF ACDEF BCDEF ABCDEF 
+All Candidate Keys: 
+ABCF CDF 
